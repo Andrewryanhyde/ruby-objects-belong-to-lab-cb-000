@@ -13,6 +13,6 @@ end
 
 beyonce = Artist.new("Beyonce", "R&B")
 
-halo = Song.new("Beyonce", "Halo")
+halo = Song.new("Halo", "Beyonce")
 
 halo.Artist = beyonce
